@@ -1,2 +1,2 @@
-# notfall
-Notfall App (Entwurf)
+# Notfall – Web-Prototyp v0.1
+Öffne index.html lokal oder aktiviere Settings → Pages → Deploy from a branch → main / (root) → Save. Offline-Cache erst über HTTPS bzw. localhost nach dem ersten Laden. Keine externen Bibliotheken. Keine echten personenbezogenen Daten: localStorage unverschlüsselt. Kein medizinisch freigegebenes Produkt. MHD-Prüfung beim Öffnen, kein Hintergrund-Push. Supabase, Fingerabdruck, sichere PDF-Ablage, weitere Bilder und Fachprüfung folgen. Kompass browser- und sensorabhängig.
